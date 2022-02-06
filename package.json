@@ -1,0 +1,24 @@
+{
+  "name": "zookeepr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samismail2010/ZooKeepr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samismail2010/ZooKeepr/issues"
+  },
+  "homepage": "https://github.com/Samismail2010/ZooKeepr#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
