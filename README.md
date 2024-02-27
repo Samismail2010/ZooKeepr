@@ -1,5 +1,7 @@
 
 # Zookeepr
+<img width="1210" alt="zookeeper" src="https://github.com/Samismail2010/ZooKeepr/assets/88996409/41cd3d37-6d52-4969-bd31-22bec277c531">
+*Zookeepr's main interface, showcasing the forms for adding animal and zookeeper details to the catalog.*
 
 ## Introduction
 
@@ -27,12 +29,6 @@ Zookeepr is a web-based application that acts as a digital catalog for zoo manag
 - CSS
 - Jest for testing
 - Insomnia for API testing
-
-## Screenshots
-
-![Zookeepr Main Interface] <img width="290" alt="zookeeper" src="https://github.com/Samismail2010/ZooKeepr/assets/88996409/41cd3d37-6d52-4969-bd31-22bec277c531">
-
-*Zookeepr's main interface, showcasing the forms for adding animal and zookeeper details to the catalog.*
 
 ## Installation
 
