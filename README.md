@@ -30,7 +30,7 @@ Zookeepr is a web-based application that acts as a digital catalog for zoo manag
 
 ## Screenshots
 
-![Zookeepr Main Interface](images/zookeeper.jpeg)
+![Zookeepr Main Interface] <img width="290" alt="zookeeper" src="https://github.com/Samismail2010/ZooKeepr/assets/88996409/41cd3d37-6d52-4969-bd31-22bec277c531">
 
 *Zookeepr's main interface, showcasing the forms for adding animal and zookeeper details to the catalog.*
 
@@ -76,6 +76,7 @@ npm test
 ```
 
 ## Deployment
+
 
 Zookeepr is deployed and can be accessed at the following URL: [Zookeepr Deployment](https://gentle-fjord-67197-d783eb083371.herokuapp.com)
 
