@@ -1,6 +1,6 @@
 
 # Zookeepr 🦁🐯🐻🐰🐸🦊
-<img width="1010" alt="zookeeper" src="https://github.com/Samismail2010/ZooKeepr/assets/88996409/41cd3d37-6d52-4969-bd31-22bec277c531">
+<img width="810" alt="zookeeper" src="https://github.com/Samismail2010/ZooKeepr/assets/88996409/41cd3d37-6d52-4969-bd31-22bec277c531">
 *Zookeepr's main interface, showcasing the forms for adding animal and zookeeper details to the catalog.*
 
 ## Introduction
