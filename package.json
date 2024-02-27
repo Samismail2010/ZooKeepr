@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/Samismail2010/ZooKeepr#readme",
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "netlify-cli": "^17.17.1"
   },
   "devDependencies": {
     "jest": "^27.5.1"
