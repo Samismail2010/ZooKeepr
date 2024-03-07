@@ -12,8 +12,6 @@ Zookeepr is a web-based application that acts as a digital catalog for zoo manag
 - [Introduction](#introduction)
 - [Technologies Used](#technologies-used)
 - [Screenshots](#screenshots)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Features](#features)
 - [Dependencies](#dependencies)
 - [Testing](#testing)
@@ -30,23 +28,6 @@ Zookeepr is a web-based application that acts as a digital catalog for zoo manag
 - Jest for testing
 - Insomnia for API testing
 
-## Installation
-
-```bash
-git clone <repository-url>
-cd Zookeepr
-npm install
-```
-
-## Usage
-
-To start the server:
-
-```bash
-npm start
-```
-
-Navigate to `http://localhost:3000` in your web browser to use the application.
 
 ## Features
 
@@ -78,7 +59,7 @@ Zookeepr is deployed and can be accessed at the following URL: [Zookeepr Deploym
 
 ## Contributing
 
-Contributions are welcome. Please fork the repository and submit a pull request.
+Sole Creator
 
 ## License
 
