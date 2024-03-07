@@ -17,7 +17,6 @@ Zookeepr is a web-based application that acts as a digital catalog for zoo manag
 - [Testing](#testing)
 - [Deployment](#deployment)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Technologies Used
 
@@ -61,6 +60,3 @@ Zookeepr is deployed and can be accessed at the following URL: [Zookeepr Deploym
 
 Sole Creator
 
-## License
-
-Zookeepr is open-sourced software licensed under the MIT license.
